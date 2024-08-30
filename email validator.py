@@ -53,9 +53,9 @@ def main():
     
     // Print the result
     if is_valid:
-        print("The email address is valid.")
+        print("**valid**")
     else:
-        print("The email address is invalid.")
+        print("**invalid")
 
 // Run the main function if the script is executed directly
 if __name__ == "__main__":
